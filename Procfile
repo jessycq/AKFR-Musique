@@ -1,1 +1,1 @@
-worker: node main.go
+worker: node index. 
